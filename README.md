@@ -1,4 +1,5 @@
-### Hi there 👋
+This is my first Git Repository.
+Author-Dilip Kumar Yadav.
 
 <!--
 **dilipyadav-9686/DilipYadav-9686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
